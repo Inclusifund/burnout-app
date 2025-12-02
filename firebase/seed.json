@@ -1,0 +1,223 @@
+{
+    "discounts": [
+        {
+            "id": "d1",
+            "title": "Urban Sauna Pass",
+            "location": "Downtown Wellness Center",
+            "description": "50% off your first month of unlimited sauna access.",
+            "category": "sauna",
+            "eligibility": "New members only",
+            "externalUrl": "https://example.com/sauna",
+            "discountCode": "BURNOUT50"
+        },
+        {
+            "id": "d2",
+            "title": "Heat & Heal",
+            "location": "The Hot Room",
+            "description": "Buy one get one free infrared sauna session.",
+            "category": "sauna",
+            "eligibility": "Weekdays 9am-5pm",
+            "externalUrl": "https://example.com/heat-heal"
+        },
+        {
+            "id": "d3",
+            "title": "Nordic Circuit",
+            "location": "Nordic Spa",
+            "description": "20% off day pass for thermal cycle.",
+            "category": "sauna",
+            "eligibility": "All users",
+            "externalUrl": "https://example.com/nordic"
+        },
+        {
+            "id": "d4",
+            "title": "Steam Sanctuary",
+            "location": "City Steam",
+            "description": "Free 15min add-on to any massage.",
+            "category": "sauna",
+            "eligibility": "With massage booking",
+            "externalUrl": "https://example.com/steam"
+        },
+        {
+            "id": "d5",
+            "title": "Glow Sauna",
+            "location": "Glow Wellness",
+            "description": "$10 off single session.",
+            "category": "sauna",
+            "eligibility": "First time users",
+            "externalUrl": "https://example.com/glow"
+        },
+        {
+            "id": "d6",
+            "title": "Mindful Gym Membership",
+            "location": "Global Gyms",
+            "description": "No initiation fee and 10% off monthly dues.",
+            "category": "gym",
+            "eligibility": "All users",
+            "externalUrl": "https://example.com/gym"
+        },
+        {
+            "id": "d7",
+            "title": "Anytime Fitness",
+            "location": "Multiple Locations",
+            "description": "7-day free trial pass.",
+            "category": "gym",
+            "eligibility": "New customers",
+            "externalUrl": "https://example.com/anytime"
+        },
+        {
+            "id": "d8",
+            "title": "Yoga Flow Studio",
+            "location": "Uptown Yoga",
+            "description": "First month for $30.",
+            "category": "gym",
+            "eligibility": "New students",
+            "externalUrl": "https://example.com/yoga-flow"
+        },
+        {
+            "id": "d9",
+            "title": "CrossFit Core",
+            "location": "Industrial District",
+            "description": "Free introductory class.",
+            "category": "gym",
+            "eligibility": "Open to all",
+            "externalUrl": "https://example.com/crossfit"
+        },
+        {
+            "id": "d10",
+            "title": "Pilates Plus",
+            "location": "Main St.",
+            "description": "15% off 10-class pack.",
+            "category": "gym",
+            "eligibility": "All users",
+            "externalUrl": "https://example.com/pilates"
+        },
+        {
+            "id": "d11",
+            "title": "Online Therapy Session",
+            "location": "TalkSpace",
+            "description": "Free initial consultation for burnout prevention.",
+            "category": "therapy",
+            "eligibility": "First time users",
+            "externalUrl": "https://example.com/therapy"
+        },
+        {
+            "id": "d12",
+            "title": "BetterHelp",
+            "location": "Online",
+            "description": "20% off your first month.",
+            "category": "therapy",
+            "eligibility": "New subscribers",
+            "externalUrl": "https://example.com/betterhelp"
+        },
+        {
+            "id": "d13",
+            "title": "Mindful Psychology",
+            "location": "West End Clinic",
+            "description": "Sliding scale options available for burnout recovery.",
+            "category": "therapy",
+            "eligibility": "Income based",
+            "externalUrl": "https://example.com/mindful-psych"
+        },
+        {
+            "id": "d14",
+            "title": "Art Therapy Workshop",
+            "location": "Creative Arts Center",
+            "description": "Buy one ticket, bring a friend for free.",
+            "category": "therapy",
+            "eligibility": "Monthly workshops",
+            "externalUrl": "https://example.com/art-therapy"
+        },
+        {
+            "id": "d15",
+            "title": "Somatic Healing",
+            "location": "BodyMind Studio",
+            "description": "$25 off initial assessment.",
+            "category": "therapy",
+            "eligibility": "New clients",
+            "externalUrl": "https://example.com/somatic"
+        },
+        {
+            "id": "d16",
+            "title": "Community Yoga",
+            "location": "City Park",
+            "description": "Free entry to weekend community yoga sessions.",
+            "category": "community",
+            "eligibility": "Open to all",
+            "externalUrl": "https://example.com/yoga-park"
+        },
+        {
+            "id": "d17",
+            "title": "Burnout Support Group",
+            "location": "Community Center",
+            "description": "Weekly peer support group meetings.",
+            "category": "community",
+            "eligibility": "Free",
+            "externalUrl": "https://example.com/support-group"
+        },
+        {
+            "id": "d18",
+            "title": "Walking Club",
+            "location": "River Trail",
+            "description": "Join our morning walking group.",
+            "category": "community",
+            "eligibility": "Free",
+            "externalUrl": "https://example.com/walking"
+        },
+        {
+            "id": "d19",
+            "title": "Meditation Circle",
+            "location": "Public Library",
+            "description": "Guided meditation every Wednesday evening.",
+            "category": "community",
+            "eligibility": "Free",
+            "externalUrl": "https://example.com/meditation"
+        },
+        {
+            "id": "d20",
+            "title": "Volunteer Gardening",
+            "location": "Community Garden",
+            "description": "Connect with nature and neighbors.",
+            "category": "community",
+            "eligibility": "Weekend mornings",
+            "externalUrl": "https://example.com/garden"
+        }
+    ],
+    "scripts": [
+        {
+            "id": "s1",
+            "title": "Talking to your GP about Burnout",
+            "category": "Medical",
+            "content": "Doctor, I've been feeling persistently exhausted and emotionally drained for the past [duration]. Even after resting, I don't feel recovered. I'm experiencing [symptoms: insomnia, headaches, irritability]. I'm concerned this might be burnout and would like to discuss a plan for recovery, including potential time off or a referral to a specialist."
+        },
+        {
+            "id": "s2",
+            "title": "Requesting Mental Health Leave from HR",
+            "category": "Work",
+            "content": "Dear [HR Manager Name],\n\nI am writing to request a medical leave of absence for health reasons, effective [Start Date]. I have been advised by my doctor to take some time off to focus on my recovery.\n\nI plan to return to work on [Tentative Return Date]. I will do my best to ensure a smooth handover of my current responsibilities before my leave begins.\n\nThank you for your understanding and support.\n\nSincerely,\n[Your Name]"
+        },
+        {
+            "id": "s3",
+            "title": "Setting Boundaries with a Manager",
+            "category": "Work",
+            "content": "Hi [Manager Name],\n\nI want to ensure I'm delivering high-quality work on my current projects. To do that effectively, I need to manage my capacity. I won't be able to take on [New Task] at this time without deprioritizing [Current Task].\n\nCan we discuss which priority is most critical right now so I can focus my energy there?"
+        },
+        {
+            "id": "s4",
+            "title": "Declining a Meeting Invite",
+            "category": "Work",
+            "content": "Hi [Name],\n\nThanks for the invite. Given my current focus on [Project/Deadline], I won't be able to attend. Please feel free to send me a summary or action items afterwards, and I'll review them when I can.\n\nThanks,\n[Your Name]"
+        },
+        {
+            "id": "s5",
+            "title": "Explaining Burnout to Family",
+            "category": "Personal",
+            "content": "I wanted to share something with you because I value our relationship. Lately, I've been going through burnout, which means I'm physically and emotionally depleted. It's not just \"tiredness\" that a nap can fix.\n\nI might need some space or might not be as social as usual while I recover. I hope you can understand and support me during this time."
+        },
+        {
+            "id": "s6",
+            "title": "Saying No to Social Plans",
+            "category": "Personal",
+            "content": "Hey [Name], thanks so much for thinking of me. I'm running really low on energy right now and need to prioritize some downtime this weekend, so I won't be able to make it. I'd love to catch up when I'm feeling more recharged."
+        }
+    ]
+}

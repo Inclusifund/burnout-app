@@ -3,10 +3,10 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { useTheme } from 'react-native-paper';
 
-import BurnoutTestScreen from '../screens/BurnoutTestScreen';
-import ResetsScreen from '../screens/ResetsScreen';
-import DiscountsScreen from '../screens/DiscountsScreen';
-import ScriptsScreen from '../screens/ScriptsScreen';
+import { BurnoutTestScreen } from '../screens/BurnoutTest';
+import { ResetsScreen } from '../screens/Resets';
+import { DiscountsScreen } from '../screens/Discounts';
+import { ScriptsScreen } from '../screens/Scripts';
 
 const Tab = createBottomTabNavigator();
 
